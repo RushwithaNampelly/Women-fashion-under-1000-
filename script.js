@@ -180,3 +180,12 @@ navLinks.classList.toggle("show");
 });
 
 }
+const page = window.location.pathname
+.split("/")
+.pop()
+.replace(".html","")
+.toLowerCase();
+
+const filtered = data.filter(product =>
+product.category.toLowerCase() === page
+);

@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://womenfashionunder1000.netlify.app/sitemap.xml

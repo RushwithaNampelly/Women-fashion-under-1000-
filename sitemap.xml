@@ -1,9 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
-  <url>
-    <loc>https://womenfashionunder1000.netlify.app/</loc>
-    <priority>1.0</priority>
-  </url>
+<url><loc>https://womenfashionunder1000.netlify.app/</loc></url>
+<url><loc>https://womenfashionunder1000.netlify.app/about.html</loc></url>
+<url><loc>https://womenfashionunder1000.netlify.app/contact.html</loc></url>
+<url><loc>https://womenfashionunder1000.netlify.app/coordsets.html</loc></url>
+<url><loc>https://womenfashionunder1000.netlify.app/dresses.html</loc></url>
+<url><loc>https://womenfashionunder1000.netlify.app/jeans.html</loc></url>
+<url><loc>https://womenfashionunder1000.netlify.app/jumpsuits.html</loc></url>
+<url><loc>https://womenfashionunder1000.netlify.app/kurthasets.html</loc></url>
+<url><loc>https://womenfashionunder1000.netlify.app/kurthis.html</loc></url>
+<url><loc>https://womenfashionunder1000.netlify.app/maxidresses.html</loc></url>
+<url><loc>https://womenfashionunder1000.netlify.app/shoes.html</loc></url>
+<url><loc>https://womenfashionunder1000.netlify.app/tops&amp;tshirts.html</loc></url>
+<url><loc>https://womenfashionunder1000.netlify.app/sandles&amp;flats.html</loc></url>
+<url><loc>https://womenfashionunder1000.netlify.app/trousers.html</loc></url>
 
+<url><loc>https://womenfashionunder1000.netlify.app/privacy.html</loc></url>
 </urlset>
